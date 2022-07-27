@@ -2,7 +2,7 @@
 
 - ✨ Atualmente estou procurando minha primeira vaga na área, atualmente procuro na área de Full-Stack.
 - 📚 Faço curso de Análise e desenvolvimento de Sistemas na UNOPAR, com previsão de conclusão em dezembro/2023 e também faço um curso Full-Stack Development na TERA.
-- 📖 Já tenho alguns cursos na área como:  Lógica de programação, algoritmos, HTML,CSS, JavaScript, DOM, jQuery, responsividade, bootstrap. API Front-End, acessibilidade web, NodeJS, API Back-End, MongoDB, autenticação e login e ReactJS, Python, Django, PHP, Laravel, MySQL, SQL e AWS.
+- 📖 Já tenho alguns cursos na área como:  Lógica de programação, algoritmos, HTML, CSS, JavaScript, DOM, jQuery, responsividade, bootstrap. API Front-End, acessibilidade web, NodeJS, API Back-End, MongoDB, autenticação e login e ReactJS, Python, Django, PHP, Laravel, MySQL, SQL e AWS.
 - ⚡ Fato Engraçado é que quando eu tinha 10/11 anos fiz curso de Web Designer e comecei PHP, porém só conclui o de Web Designer.
 
 ##
