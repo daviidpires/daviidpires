@@ -1,8 +1,8 @@
 ## Sou David Pires, 28 anos👋
 
 - ✨ Atualmente estou procurando minha primeira vaga na área, atualmente procuro na área de Full-Stack.
-- 📚 Faço curso de Análise e desenvolvimento de Sistemas na UNOPAR, com previsão de conclusão em dezembro/2023 e também faço um curso Full-Stack Development na TERA.
-- 📖 Já tenho alguns cursos na área como:  Lógica de programação, algoritmos, HTML, CSS, JavaScript, DOM, jQuery, responsividade, bootstrap. API Front-End, acessibilidade web, NodeJS, API Back-End, MongoDB, autenticação e login e ReactJS, Python, Django, PHP, Laravel, MySQL, SQL e AWS.
+- 📚 Faço curso de Análise e desenvolvimento de Sistemas na UNOPAR, com previsão de conclusão em dezembro/2023 e também tenho Full-Stack Development na TERA.
+- 📖 Na TERA aprendi:  Lógica de programação, algoritmos, HTML, CSS, JavaScript, DOM, jQuery, responsividade, bootstrap, API Front-End, acessibilidade web, NodeJS, API Back-End, MongoDB, autenticação e login, ReactJS, PHP, Laravel, MySQL, SQL e AWS. Tenho também outros cursos de Python, Django. E atualmente estou estudando sobre WORDPRESS.
 - ⚡ Fato Engraçado é que quando eu tinha 10/11 anos fiz curso de Web Designer e comecei PHP, porém só conclui o de Web Designer.
 
 ##
